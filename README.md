@@ -1,2 +1,2 @@
 # PS_Navi_2022
- Testes processo seletivo Navi
+ Testes de Excel e Python do processo seletivo Summer Intern da Navi Capital
